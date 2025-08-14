@@ -1,13 +1,126 @@
-<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
-<head>
-  <script>
-    // REDIRECT EVERYTHING TO GITHUB PAGES
-    const fullPath = window.location.pathname + window.location.search;
-    window.location.replace("https://claude3d.github.io" + fullPath);
-  </script>
+<head><meta charset="us-ascii">
+	<title>Earth and its children</title>
+	<META NAME="Description" CONTENT="Pictures of the World and education of its children"><META NAME="keywords" CONTENT="education,children,world,picture,greeting"><script type= "text/javascript"LANGUAGE="javascript">
+<!--//
+
+var preload=new Image();
+preload.src="door2.gif";
+
+var interval ;
+
+function openclose(img_src)
+{
+	document.door.src=img_src;
+}
+
+
+function snow()
+{
+	for (i = 0; i < no; ++ i)		  // iterate for every fallObj
+	{
+		yp[i] += sty[i];
+		if (yp[i] > doc_height-50)
+		{
+			xp[i] = Math.random()*(doc_width-am[i]-30);
+			yp[i] = 0;
+			stx[i] = 0.02 + Math.random()/10;
+			sty[i] = 0.7 + Math.random();
+			doc_width = document.body.clientWidth;
+			doc_height = document.body.clientHeight;
+		}
+		dx[i] += stx[i];
+		document.getElementById("dot"+i).style.top = yp[i];
+		document.getElementById("dot"+i).style.left = xp[i] + am[i]*Math.sin(dx[i]);
+	} 
+}
+
+function start()
+{
+	interval = setInterval("snow()",speed);
+}
+
+//-->
+</SCRIPT>
 </head>
-<body>
-  Redirecting to GitHub Pages...
-</body>
+<body alink="#55AA55" background="backgroundbleu.gif" link="#0000A0" onload="start();" text="#403020" vlink="#804000">
+<center><img alt="welcome" height="50" src="welcome.gif" width="346" />
+<table border="0" cellpadding="0" cellspacing="10"><!--  Premiere rangee    -->
+	<tbody>
+		<tr>
+			<td width="120">My pictures of this planet. (1980~2005)</td>
+			<td align="CENTER" width="120"><a href="TheWorld/TheWorlda.html"><img alt="The World" border="0" height="92" src="world.gif" width="114" /></a><br />
+			<a href="TheWorld/TheWorlda.html">The World</a></td>
+			<td align="CENTER" colspan="2" rowspan="2" width="240"><a name="stayhere"></a> <img alt="Earth" height="256" src="earth.gif" width="256" /></td>
+			<td align="CENTER" width="120"><a href="http://www.claude3d.com/World/Langue/language.html"><img alt="Langue" border="0" height="111" src="Langage.gif" width="120" /><br />
+			Greetings</a></td>
+			<td width="120">Greetings in different languages of this planet.</td>
+		</tr>
+		<!--  Deuxieme rangee    -->
+		<tr>
+			<td width="120">The education of its children.</td>
+			<td align="CENTER"><a href="Education/Educationa.html"><img align="BOTTOM" alt="Education" border="0" height="105" src="children.gif" width="114" /></a><br />
+			<a href="Education/Educationa.html">Education</a></td>
+			<td align="CENTER"><a href="http://www.claude3d.com/Gallery/"><img align="BOTTOM" alt="MyGallery" src="Miyajima.jpg" style="border-width: 0px; border-style: solid; width: 120px; height: 105px;" /></a><br />
+			<a href="http://www.claude3d.com/Gallery/">The World II</a></td>
+			<td width="120">More<br />
+			recent<br />
+			pictures</td>
+		</tr>
+		<tr>
+		</tr>
+		<tr>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="4"><a href="./WT2005/wt2005.html"><img alt="wtour" border="0" height="27" src="WT2005.gif" width="139" /></a></td>
+		</tr>
+	</tbody>
+</table>
+</center>
+<script type= "text/javascript"LANGUAGE="javascript">
+<!-- Begin
+
+var no = 35 ; // snow number
+var speed = 100; // smaller number moves the snow faster
+
+var theDate = new Date();
+theMonthNum = theDate.getMonth();
+
+fallObj = "snow.gif";
+
+if (theMonthNum == 3 || theMonthNum == 4)
+	fallObj = "sakura.gif";
+if (theMonthNum == 5 || theMonthNum == 6 || theMonthNum == 7 )
+	fallObj = "dandelion.gif";
+if (theMonthNum == 8 || theMonthNum == 9 || theMonthNum == 10)
+	fallObj = "momiji.gif";
+	
+
+var dx, xp, yp;    // coordinate and position variables
+var am, stx, sty;  // amplitude and step variables
+var i;
+doc_width = document.body.clientWidth;
+doc_height = document.body.clientHeight;
+
+dx = new Array();
+xp = new Array();
+yp = new Array();
+am = new Array();
+stx = new Array();
+sty = new Array();
+for (i = 0; i < no; ++ i)
+{  
+	dx[i] = 0;                        // set coordinate variables
+	xp[i] = Math.random()*(doc_width-50);  // set position variables
+	yp[i] = Math.random()*doc_height;
+	am[i] = Math.random()*20;         // set amplitude variables
+	stx[i] = 0.02 + Math.random()/10; // set step variables
+	sty[i] = 0.7 + Math.random();     // set step variables
+	document.write("<div id='dot"+ i +"' style='POSITION:absolute; Z-INDEX: "+ i +"; VISIBILITY: visible; TOP: 15px; LEFT: 15px;'><img name ='fallObjname" + i + "' src=" + fallObj + " border='0'><\/div>");
+}
+
+// End -->
+</script></body>
 </html>
