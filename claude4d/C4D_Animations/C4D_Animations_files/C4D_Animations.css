@@ -1,0 +1,1137 @@
+.paragraph_style {
+    color: rgb(255, 255, 255);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 31px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 36px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_1 {
+    color: rgb(255, 255, 255);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 17px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.Body {
+    color: rgb(255, 255, 255);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Header {
+    color: rgb(255, 255, 255);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 36px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 42px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Normal {
+    padding: 4px;
+}
+.Normal_External_683_50 {
+    position: relative;
+}
+.Normal_External_414_52 {
+    position: relative;
+}
+.Title {
+    color: rgb(255, 255, 255);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 20px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 25px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.graphic_generic_header_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_generic_title_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_image_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_textbox_layout_style_default_External_369_48 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_53_3352 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_100_100 {
+    position: relative;
+}
+.graphic_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget23 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget63 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget43 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget24 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget63 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget15 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget12 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget54 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget38 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget30 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget65 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget71 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget26 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#id2 div.caption span.title {
+    color: rgb(255, 255, 255);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 13px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 18px;
+    opacity: 1.00;
+    text-decoration: none;
+    text-transform: none;
+}
+#widget22 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget57 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget13 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget14 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget24 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget44 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget28 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget24 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#id2 canvas {
+    z-index: -1;
+}
+#widget59 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget61 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget64 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget16 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget16 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget9 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget8 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget31 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget66 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget7 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget6 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget23 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget14 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget58 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget5 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget63 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget34 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget18 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget51 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget4 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget8 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget25 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget3 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget45 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget2 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget65 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget25 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget65 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget40 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget17 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget53 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget70 .Comment_Posted_Date {
+    color: rgb(255, 255, 255);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    text-align: left;
+    text-decoration: none;
+    text-transform: none;
+}
+#widget9 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget32 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget41 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget67 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget67 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget15 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget35 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget19 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget55 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget55 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget34 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget69 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget43 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget66 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget69 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget26 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget31 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget41 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget18 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget57 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget33 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget45 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget68 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget16 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget33 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget36 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget56 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget30 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget59 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget21 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget50 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget35 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget47 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget70 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget50 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget27 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget35 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget42 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget2 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget23 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget26 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget49 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget46 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget11 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget20 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget29 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget8 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget9 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget37 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget37 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget40 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget7 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget44 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget57 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget60 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget25 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget70 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget3 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget36 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget71 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget13 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget51 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget28 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget39 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget71 .Comment_Posted_Date {
+    color: rgb(255, 255, 255);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    text-align: left;
+    text-decoration: none;
+    text-transform: none;
+}
+#widget10 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget43 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget27 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget27 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget60 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget47 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget21 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget15 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget67 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget41 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget61 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget10 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget45 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget29 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget62 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget60 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget37 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget17 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget50 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget4 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget17 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget6 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget5 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget52 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget11 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget31 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget28 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget64 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget51 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget39 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget48 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget19 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget68 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget42 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget52 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget54 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget62 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget40 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget46 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget11 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget66 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget61 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget38 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget4 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget54 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget18 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget53 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget38 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget12 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget42 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget58 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget32 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget68 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget52 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget49 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget30 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget69 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget56 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#id2 div.caption span.metric {
+    color: rgb(255, 255, 255);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 17px;
+    opacity: 1.00;
+    text-decoration: none;
+    text-transform: none;
+}
+#widget20 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget5 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget2 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget3 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget55 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget44 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget70 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget12 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget47 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget32 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget62 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget22 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget19 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#id2 div.caption {
+    line-height: 18px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-indent: 0px;
+    white-space: nowrap;
+}
+#widget58 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget20 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget39 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget6 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget46 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget33 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget14 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget49 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget59 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget53 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget34 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget64 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget22 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget21 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget56 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget48 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget7 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget10 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget48 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget13 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget29 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget71 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget36 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+body { 
+    -webkit-text-size-adjust: none;
+}
+div { 
+    overflow: visible; 
+}
+img { 
+    border: none; 
+}
+.InlineBlock { 
+    display: inline; 
+}
+.InlineBlock { 
+    display: inline-block; 
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: baseline;
+    margin-bottom:0.3em;
+}
+.inline-block.shape-with-text {
+    vertical-align: bottom;
+}
+.vertical-align-middle-middlebox {
+    display: table;
+}
+.vertical-align-middle-innerbox {
+    display: table-cell;
+    vertical-align: middle;
+}
+div.paragraph {
+    position: relative;
+}
+li.full-width {
+    width: 100;
+}
