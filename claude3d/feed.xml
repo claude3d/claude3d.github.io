@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:541F7BD4-D7E6-4916-99BC-8BCE61487E5F</id>
+ <title>Page list Atom feed</title>
+ <updated>2019-08-28T07:46:48+07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:E56104F8-E332-4E22-91ED-4488A9064A37</id>
+  <title>Portal</title>
+  <title xmlns="urn:iweb:">Portal</title>
+  <in-navbar xmlns="urn:iweb:">E56104F8-E332-4E22-91ED-4488A9064A37</in-navbar>
+  <link rel="alternate" href="Portal.html"/>
+  <updated>2019-08-28T07:46:48.001+07:00</updated>
+  <content>Portal</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4329D356-327D-4DEB-82D7-19BF8CA629FF</id>
+  <title>Privacy</title>
+  <title xmlns="urn:iweb:">Privacy</title>
+  <in-navbar xmlns="urn:iweb:">4329D356-327D-4DEB-82D7-19BF8CA629FF</in-navbar>
+  <link rel="alternate" href="Privacy.html"/>
+  <updated>2019-08-28T07:46:48.002+07:00</updated>
+  <content>Privacy</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E58A8051-DFA9-43D8-B3A7-C0311688C45B</id>
+  <title>Desktop Images</title>
+  <title xmlns="urn:iweb:">Desktop Images</title>
+  <in-navbar xmlns="urn:iweb:">E58A8051-DFA9-43D8-B3A7-C0311688C45B</in-navbar>
+  <link rel="alternate" href="Desktop_Images.html"/>
+  <updated>2019-08-28T07:46:48.003+07:00</updated>
+  <content>Desktop Images</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:91334465-87A3-4F8D-9CEA-5EFEBF0AEE1E</id>
+  <title>Tutorials</title>
+  <title xmlns="urn:iweb:">Tutorials</title>
+  <in-navbar xmlns="urn:iweb:">91334465-87A3-4F8D-9CEA-5EFEBF0AEE1E</in-navbar>
+  <link rel="alternate" href="Tutorials.html"/>
+  <updated>2019-08-28T07:46:48.004+07:00</updated>
+  <content>Tutorials</content>
+ </entry>
+</feed>
